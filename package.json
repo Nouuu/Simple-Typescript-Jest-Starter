@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nouuu/Simple-Typescript-Jest-Starter/issues"
   },
-  "homepage": "https://github.com/Nouuu/Simple-Typescript-Jest-Starter#readme"
+  "homepage": "https://github.com/Nouuu/Simple-Typescript-Jest-Starter#readme",
+  "devDependencies": {
+    "typescript": "^4.5.3"
+  }
 }
